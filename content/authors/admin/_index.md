@@ -21,7 +21,7 @@ organizations:
 bio: My area of research is interpersonal violence
 
 interests:
-- Intpersonal violence
+- Interpersonal violence
 - Weapon-carrying
 - Domestic abuse
 - Evaluation of violence prevention initiatives
